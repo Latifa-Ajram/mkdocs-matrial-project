@@ -15,7 +15,7 @@ theme:
     - content.code.copy
 
   language: en
-  icon: :sun_with_face:
+ 
  
   palette:
     - scheme: default
