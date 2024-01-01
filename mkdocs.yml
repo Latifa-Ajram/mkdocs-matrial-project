@@ -1,7 +1,7 @@
 site_name: MkDocs Youtube Tutorial
 theme:
   name: material
-  favicon: image/favicon.ico
+  favicon: image/favicon-16x16.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -77,7 +77,7 @@ plugins:
 
 
 
-  
+
 copyright: |
   &copy; 2023 <a href=" https://github.com/Latifa-Ajram/"  target="_blank" rel="noopener">Latifa Ajram</a>
  
