@@ -1,7 +1,7 @@
 site_name: MkDocs Youtube Tutorial
 theme:
   name: material
-  favicon: image/favicon-16x16.png
+  favicon: image/cowboy-hat.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -13,7 +13,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
-
+  icon:
+    logo: fontawesome/solid/hat-cowboy
   language: en
  
  
