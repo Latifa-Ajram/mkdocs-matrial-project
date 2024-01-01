@@ -13,7 +13,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-
+  icon: image/
   palette:
     - scheme: default
       toggle:
