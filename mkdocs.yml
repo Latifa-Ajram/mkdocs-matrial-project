@@ -1,6 +1,7 @@
 site_name: MkDocs Youtube Tutorial
 theme:
   name: material
+  favicon: image/favicon.ico
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,7 +13,9 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+
   language: en
+  icon: :sun_with_face:
  
   palette:
     - scheme: default
@@ -68,6 +71,11 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - typeset
+
+
 
   
 copyright: |
