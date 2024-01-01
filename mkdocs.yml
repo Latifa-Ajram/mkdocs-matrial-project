@@ -4,6 +4,7 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -12,7 +13,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  icon: fontawesome/solid/hat-cowboy
+
   palette:
     - scheme: default
       toggle:
