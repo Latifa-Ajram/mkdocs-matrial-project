@@ -35,6 +35,12 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/latifa-ajram/
 
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true
