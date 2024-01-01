@@ -29,6 +29,15 @@ theme:
       accent: lime
 
 extra:
+  alternate:
+    - name: English
+      link: /en/ 
+      lang: en
+    - name: Deutsch
+      link: /de/
+      lang: de
+
+extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/Latifa-Ajram/
