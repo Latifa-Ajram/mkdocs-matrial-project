@@ -12,6 +12,7 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  icon: fontawesome/solid/hat-cowboy
   palette:
     - scheme: default
       toggle:
