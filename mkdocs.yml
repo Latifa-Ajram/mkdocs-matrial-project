@@ -1,6 +1,7 @@
 site_name: MkDocs Youtube Tutorial
 theme:
   name: material
+  custom_dir: overrides
   favicon: image/cowboy-hat.png
   features:
     - navigation.tabs
